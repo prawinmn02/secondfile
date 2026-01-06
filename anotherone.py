@@ -1,1 +1,1 @@
-print("hyu")
+print("hytt")
